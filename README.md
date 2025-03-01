@@ -7,7 +7,7 @@
 
 
 ## 订阅链接
-[公众号「**编程Cookbook**」八股库：消息队列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3863027493087100937&scene=173&sessionid=1740491728&enterid=1740491801&from_msgid=2247484754&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+[公众号「**编程Cookbook**」八股库：消息队列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3877512012947144711&scene=173&subscene=227&sessionid=1740799598&enterid=1740799616&from_msgid=2247485207&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
 > 关注公众号「**编程Cookbook**」，获取更多编程学习/面试资料！  
